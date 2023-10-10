@@ -1,0 +1,38 @@
+h1{
+  font-size: 40px;
+  text-decoration: underline;
+  color: green;
+  margin-top: 30px;
+}
+
+h3{
+  text-decoration: underline;
+  color: green;
+  margin-top: 40px;
+}
+#carrito {
+  width: 60px;
+  height: 60px;
+}
+
+.encabezados{
+  display: block;
+  text-align: center;
+}
+
+
+li{
+  padding-right: 30px;
+  font-weight: bold;
+}
+
+
+button{
+  border-color: white;
+  background-color: white;
+  margin-right: 20px;
+}
+
+label{
+  font-weight: bold;
+}
